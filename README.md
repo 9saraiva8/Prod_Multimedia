@@ -13,8 +13,8 @@ Testes de temperatura de cor
 
 --------------------------------------------------------------------------------------
 
-##foto original
+## foto original
 ![alt text](cursed_ferret_og.jpg)
 
-##foto hard mixed com uma layer que contem um gradient de preto para vermelho e um pincel
+## foto hard mixed com uma layer que contem um gradient de preto para vermelho e um pincel
 ![alt text](cursed_ferret_og.jpg)
