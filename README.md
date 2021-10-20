@@ -1,4 +1,4 @@
 # Prod_Multimedia
 
 
-![alt text](sea%20lion%20og.jpg)
+![alt text](sea\ lion\ og.jpg)
