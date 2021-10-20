@@ -10,3 +10,11 @@ Testes de temperatura de cor
 
 ## cor cold
 ![alt text](sea_liao_never_hot.jpg)
+
+--------------------------------------------------------------------------------------
+
+##foto original
+![alt text](cursed_ferret_og.jpg)
+
+##foto hard mixed com uma layer que contem um gradient de preto para vermelho e um pincel
+![alt text](cursed_ferret_og.jpg)
