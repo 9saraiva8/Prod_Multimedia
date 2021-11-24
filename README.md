@@ -28,3 +28,14 @@
 
 ### foto editada
 ![alt text](shroomy.jpg)
+
+
+#LINKES
+
+##GIMP
+
+Make a transparent gradient in gimp
+https://www.youtube.com/watch?v=wXoa3DXasZU
+
+GIMP 2020 - How to Resize/Scale an Image or Layer
+https://www.youtube.com/watch?v=Kfy0i8Gd1vk
