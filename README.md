@@ -43,13 +43,13 @@ https://www.youtube.com/watch?v=Kfy0i8Gd1vk
 ##VIDEO
 
 color correction
-![alt text]color.png)
+![alt text](color.png)
 
 efeito para a musica nao dar clash com as vozes
-![alt text]music.png)
+![alt text](music.png)
 
 som
-![alt text]som.png)
+![alt text](som.png)
 
 #LINKS
 
