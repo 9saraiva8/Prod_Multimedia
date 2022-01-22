@@ -40,18 +40,20 @@ https://www.youtube.com/watch?v=wXoa3DXasZU
 GIMP 2020 - How to Resize/Scale an Image or Layer
 https://www.youtube.com/watch?v=Kfy0i8Gd1vk
 
+---------------------------------------------------------------------------------------
+
 ##VIDEO
 
-color correction
+###color correction
 ![alt text](color.png)
 
-efeito para a musica nao dar clash com as vozes
+###efeito para a musica nao dar clash com as vozes
 ![alt text](music.png)
 
-som
+###som
 ![alt text](som.png)
 
-#LINKS
+##LINKS
 
 Adobe in a Minute 
 vi demasiados videos deste canal para meter todos os links. Este canal salvou-me muitas vezes
