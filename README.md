@@ -2,4 +2,4 @@
 
 ## Affordances, Signifiers, Feedback
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/9saraiva8/Prod_Multimedia/blob/main/Twitch_Sound.png))
+![alt text](![imagem](https://user-images.githubusercontent.com/61798356/194715029-6c99fb34-ae64-40b1-be6d-4656be964ba8.png)
