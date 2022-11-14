@@ -16,3 +16,12 @@ Para mudar o som temos um botao com o simbolo de uma coluna, que ao dar hover mo
 ![imagem](https://user-images.githubusercontent.com/61798356/194716685-06b821d9-476d-4c41-b21b-0f75c18342f2.png)
 
 no chat quando carregamos para escrever a cor muda e a box fica com uma boarder para indicar que esta selecionada e podemos começar a escrever
+
+## Utilizadores Primários, Secundários, e Terciários
+
+### Spotify
+
+No spotify os utilizadores primários seriam os musicos e os seus fans
+Os secundários seriam labels à procura de novos artistas
+E terciários lojas que vendam discos de musica
+
